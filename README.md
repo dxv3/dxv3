@@ -1,5 +1,4 @@
 <h1 align="center">dxv3</h1>
-<h2 align="center">abusing requests since '20</h2>
 
 <div align="center">
 

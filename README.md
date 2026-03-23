@@ -9,9 +9,8 @@
   ![dxv3's GitHub stats](https://github-readme-stats.vercel.app/api?username=dxv3&show_icons=true&theme=radical)
 </div>
 
-## Long term goals
-* Learn C++
 
 ## Links
-* [dxv3.com](https://dxv3.com/)
-* [perc.pro](https://perc.pro/)
+* [perc.life](https://perc.life/)
+* ~~[dxv3.com](https://dxv3.com/)~~
+* ~~[perc.pro](https://perc.pro/)~~

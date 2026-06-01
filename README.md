@@ -6,7 +6,7 @@
 
   <img src="https://discord.c99.nl/widget/theme-4/541388135712423936.png"></img>
 
-  ![dxv3's GitHub stats](https://github-readme-stats.vercel.app/api?username=dxv3&show_icons=true&theme=radical)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=dxv3&theme=dark)](https://git.io/streak-stats)
 </div>
 
 
